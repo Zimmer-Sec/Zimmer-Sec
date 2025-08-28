@@ -1,16 +1,15 @@
-## Hi there 👋
+---
+## Welcome!  
 
-<!--
-**Zimmer-Sec/Zimmer-Sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kyle Zimmer and I'm a security analyst with a mind for privacy. I'll be using this account to learn and begin developing a variety of different projects.
 
-Here are some ideas to get you started:
+## Interests
+- Python
+- Red teaming
+- Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials:
+[LinkedIn](https://www.linkedin.com/in/kyle-zimmer-034060234/)
+<!-- NOSTR, YT, X ? -->
+
+---
